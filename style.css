@@ -1,0 +1,36 @@
+/* .some-text {
+  font-family: "Montserrat", "arial", sans-serif;
+  font-size: 40xp;
+  line-height: normal;
+  text-align: center;
+  font-weight: 700;
+  font-style: italic;
+} */
+
+.some-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-style: italic;
+}
+
+.cherta {
+  text-decoration: line-through;
+}
+
+.three {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.long {
+  color: #000000;
+  text-shadow:  0px 0px 2px rgb(198 10 201);
+  text-decoration: overline wavy;
+  word-spacing: 30px;
+}
+
+.long2 {
+  letter-spacing: 5px;
+  text-decoration: underline double;
+}
